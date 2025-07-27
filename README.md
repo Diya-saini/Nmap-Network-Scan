@@ -24,5 +24,5 @@ Perform a basic network scan using Nmap to detect open ports and services.
 - Windows/Linux Terminal
   
  ## SCREENSHOT:
-  - <img width="1360" height="768" alt="NMAPterminalOUTPUT" src="https://github.com/user-attachments/assets/dd03fde0-7e47-44bc-8a84-3af4d5949767" />
 
+ - <img width="1360" height="768" alt="NMAPterminalOUTPUT" src="https://github.com/user-attachments/assets/685eeda5-7060-49b9-949d-dcb0e2ea5168" />
